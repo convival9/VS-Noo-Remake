@@ -1,0 +1,54 @@
+{
+	"songs": [
+		[
+			"two point five",
+			"noob2.5",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"team",
+			"nooandstev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"the stev song",
+			"stev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"noob",
+			"noob",
+			[
+				246,
+				210,
+				74
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "extra songs",
+	"weekName": "Extra Songs",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"clap",
+			"noo",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"mid",
+			"noo2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"spam",
+			"noo3",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "noo",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the actual week 1",
+	"weekName": "Week 1",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

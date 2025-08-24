@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"toonoo",
+			"noo",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"decent",
+			"noo",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"sword",
+			"noosword",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "noo2",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "rematch",
+	"weekName": "Week 2",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

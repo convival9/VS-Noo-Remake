@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"i already won",
+			"noospam",
+			[
+				75,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "noofinale",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the finale",
+	"weekName": "Finale",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
